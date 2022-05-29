@@ -7,3 +7,5 @@ seaborn
 numpy
 lxml
 yfinance
+sklearn
+joblib
