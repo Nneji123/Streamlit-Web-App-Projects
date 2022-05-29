@@ -1,6 +1,0 @@
-altair
-pandas
-streamlit
-yfinance
-matplotlib
-numpy
