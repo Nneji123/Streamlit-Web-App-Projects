@@ -1,7 +1,7 @@
 altair
 pandas
 streamlit
-base64
+base58
 matplotlib
 seaborn
 numpy
